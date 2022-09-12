@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <h3 align="center">A junior software developer</h3>
 
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<img alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dwi8wt9tm0poxtwha5awv5bzgvxarqle8sjbmbxc&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Daily Notes](https://github.com/kvvprof/daily-notes)
 
