@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
 <h3 align="center">A junior software developer</h3>
 
-<img align="right" alt="coding" width="200" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dwi8wt9tm0poxtwha5awv5bzgvxarqle8sjbmbxc&rid=giphy.gif&ct=g">
+<img style="border-radius: 20px;" align="right" alt="coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dwi8wt9tm0poxtwha5awv5bzgvxarqle8sjbmbxc&rid=giphy.gif&ct=g">
 
 - 🔭 I’m currently working on [Daily Notes](https://github.com/kvvprof/daily-notes)
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Express, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/kvvprof?tab=repositories](https://github.com/kvvprof?tab=repositories)
+- 👨‍💻 All of my projects are available at [**link**](https://github.com/kvvprof?tab=repositories)
 
 - 👉 How to reach me [**Telegram**](https://t.me/kvvprof)
 
