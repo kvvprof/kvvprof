@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Daily Notes](https://github.com/kvvprof/daily-notes)
 
-- 🌱 I’m currently learning **JavaScript, TypeScript, React, Node.js, Express, PostgreSQL**
+- 🌱 I’m currently learning **JS, TS, React, Node.js, Express, PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [**link**](https://github.com/kvvprof?tab=repositories)
 
