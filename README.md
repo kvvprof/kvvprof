@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vladislav</h1>
-<h3 align="center">A junior software developer</h3>
+<h3 align="center">Junior Software Developer</h3>
 
 <img align="right" alt="coding" width="300" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dwi8wt9tm0poxtwha5awv5bzgvxarqle8sjbmbxc&rid=giphy.gif&ct=g">
 
