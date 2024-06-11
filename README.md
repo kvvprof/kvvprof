@@ -2,4 +2,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,docker)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kvvprof&theme=tokyonight&hide_border=true&card_width=350)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=kvvprof&theme=tokyonight&hide_border=true&card_width=400)](https://git.io/streak-stats)
